@@ -18,4 +18,5 @@ do
     sayac++;
 } while (sayac <= limit);
 
-// while döngüsünde koşul sağlandığı sürece scopetaki işlemler gerçekleşir, do-while döngüsünde ise ilk önce scopetaki kod bloğunu 1 kere gerçekleştirir daha sonrasında while döngüsü gibi koşulun devam edip etmediğine bakarak işlemlerini yapar. Bu ödevi kontrol edecek arkadaşlara yardımcı olabilmesi açısından do-while döngüsünü "yap sonra bak" (do/yap) olarak aklınızda tutabilirsiniz.
+// while döngüsünde koşul sağlandığı sürece scopetaki işlemler gerçekleşir, do-while döngüsünde ise ilk önce scopetaki kod bloğunu 1 kere gerçekleştirir daha sonrasında while döngüsü gibi koşulun devam edip etmediğine bakarak işlemlerini yapar. 
+// Bu ödevi kontrol edecek arkadaşlara yardımcı olabilmesi açısından do-while döngüsünü "yap sonra bak" (do/yap) olarak aklınızda tutabilirsiniz.
